@@ -2,8 +2,8 @@
 //
 // Caution
 //
-// * godot DOES NO VALIDATATION, use with cares.
-// * Subgraph in graphviz might not work in the way you expected, read graphviz's manual before using it.
+//     * godot DOES NO VALIDATATION, use with cares.
+//     * Subgraph in graphviz might not work in the way you expected, read graphviz's manual before using it.
 package godot
 
 import "strings"
