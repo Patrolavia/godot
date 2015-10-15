@@ -2,7 +2,7 @@
 
 godot helps you generating graphviz diagrams in your application.
 
-[![GoDoc](https://godoc.org/github.com/Patrolavia/godot?status.svg)](https://godoc.org/github.com/Patrolavia/godot)
+[![GoDoc](https://godoc.org/github.com/Patrolavia/godot?status.svg)](https://godoc.org/github.com/Patrolavia/godot) [![Build Status](https://travis-ci.org/Patrolavia/godot.svg)](https://travis-ci.org/Patrolavia/godot)
 
 ## Synopsis
 
